@@ -1,0 +1,5 @@
+{
+  "name": "VSTEP Registration Portal",
+  "description": "Hệ thống đăng ký dự thi đánh giá năng lực tiếng Anh (VSTEP) Đại học Ngoại Thương với tính năng xuất PDF và quản trị.",
+  "requestFramePermissions": []
+}
